@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-08-06T03:24:22.689Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="x2BT4mc7Gt-5f_gG2gnP" version="13.5.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-06T04:06:27.849Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="HqzeiC3Xdf84GfpMaViX" version="13.5.9" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
-    <mxGraphModel dx="2272" dy="745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2347" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -34,7 +34,7 @@
         <mxCell id="qP7RfjjSuJHUTKs1OxjB-28" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;fontSize=14;" parent="3nuBFxr9cyL0pnOWT2aG-1" vertex="1">
           <mxGeometry x="45" y="1020" width="10" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="3nuBFxr9cyL0pnOWT2aG-5" value="BCCS" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="3nuBFxr9cyL0pnOWT2aG-5" value="DB &#xa;BCCS" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="340" y="80" width="100" height="1220" as="geometry" />
         </mxCell>
         <mxCell id="3nuBFxr9cyL0pnOWT2aG-6" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;fontSize=14;" parent="3nuBFxr9cyL0pnOWT2aG-5" vertex="1">
@@ -77,7 +77,7 @@
         <mxCell id="zwl1kb8XWR0ilbOw2src-2" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;fontSize=14;" parent="zwl1kb8XWR0ilbOw2src-1" vertex="1">
           <mxGeometry x="45" y="80" width="10" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="zwl1kb8XWR0ilbOw2src-6" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;param PARAM_CODE_WHITE_LIST_FIX_BUG&lt;span style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp; &amp;nbsp;&lt;/span&gt;&lt;/div&gt;0&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; kết thúc tiến trình và ngủ sau đó quay lại start&lt;div style=&quot;font-size: 14px;&quot;&gt;1&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; tiếp tục thực hiện tiến trình&lt;/div&gt;error&amp;nbsp; kết thúc tiến trình và ngủ sau đó quay lại start" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="zwl1kb8XWR0ilbOw2src-6" value="&lt;div&gt;param&amp;nbsp;PARAM_CODE_FIX_BUG_OFFSET&amp;nbsp;&amp;nbsp;&lt;/div&gt;0&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; kết thúc tiến trình và ngủ sau đó quay lại start&lt;div style=&quot;font-size: 14px&quot;&gt;1&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; tiếp tục thực hiện tiến trình&lt;/div&gt;error&amp;nbsp; kết thúc tiến trình và ngủ sau đó quay lại start" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="400" y="287.5" width="330" height="62.5" as="geometry" />
         </mxCell>
         <mxCell id="zwl1kb8XWR0ilbOw2src-8" value="getParam" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;exitX=0.47;exitY=0.312;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=14;" parent="1" target="zwl1kb8XWR0ilbOw2src-9" edge="1">
