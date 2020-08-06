@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-06T04:08:17.148Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="GaKEB-GXvSYQDYSlTnfK" version="13.5.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-06T04:08:55.765Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="0yb5mYs8hsCl5lWRe-pu" version="13.5.9" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="2347" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -80,7 +80,7 @@
         <mxCell id="zwl1kb8XWR0ilbOw2src-6" value="&lt;div&gt;param&amp;nbsp;PARAM_CODE_FIX_BUG_OFFSET&amp;nbsp;&amp;nbsp;&lt;/div&gt;0&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; kết thúc tiến trình và ngủ sau đó quay lại start&lt;div style=&quot;font-size: 14px&quot;&gt;1&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; tiếp tục thực hiện tiến trình&lt;/div&gt;error&amp;nbsp; kết thúc tiến trình và ngủ sau đó quay lại start" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="400" y="287.5" width="330" height="62.5" as="geometry" />
         </mxCell>
-        <mxCell id="zwl1kb8XWR0ilbOw2src-8" value="getParam" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;exitX=0.47;exitY=0.312;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=14;" parent="1" target="zwl1kb8XWR0ilbOw2src-9" edge="1">
+        <mxCell id="zwl1kb8XWR0ilbOw2src-8" value="Lấy whitelist SDT để test =&gt; getParam" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;exitX=0.47;exitY=0.312;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=14;" parent="1" target="zwl1kb8XWR0ilbOw2src-9" edge="1">
           <mxGeometry x="-0.0476" relative="1" as="geometry">
             <mxPoint x="47" y="407.1600000000001" as="sourcePoint" />
             <mxPoint x="380" y="407" as="targetPoint" />
