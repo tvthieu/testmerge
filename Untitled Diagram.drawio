@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2020-08-06T04:08:55.765Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="0yb5mYs8hsCl5lWRe-pu" version="13.5.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-06T05:08:07.912Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="OubP-vMT8YIMfYwdrm7V" version="13.5.9" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="2347" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="3nuBFxr9cyL0pnOWT2aG-1" value="Tiến trình" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry y="80" width="100" height="1220" as="geometry" />
+        <mxCell id="3nuBFxr9cyL0pnOWT2aG-1" value="Tiến trình Cha" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="-110" y="75" width="100" height="1220" as="geometry" />
         </mxCell>
         <mxCell id="3nuBFxr9cyL0pnOWT2aG-2" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;fontSize=14;" parent="3nuBFxr9cyL0pnOWT2aG-1" vertex="1">
           <mxGeometry x="45" y="190" width="10" height="85" as="geometry" />
@@ -17,22 +17,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3nuBFxr9cyL0pnOWT2aG-4" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;fontSize=14;" parent="3nuBFxr9cyL0pnOWT2aG-1" vertex="1">
-          <mxGeometry x="45" y="440" width="10" height="80" as="geometry" />
+          <mxGeometry x="45" y="405" width="10" height="50" as="geometry" />
         </mxCell>
         <mxCell id="zwl1kb8XWR0ilbOw2src-7" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;fontSize=14;" parent="3nuBFxr9cyL0pnOWT2aG-1" vertex="1">
-          <mxGeometry x="45" y="325" width="10" height="80" as="geometry" />
+          <mxGeometry x="45" y="320" width="10" height="65" as="geometry" />
         </mxCell>
         <mxCell id="zwl1kb8XWR0ilbOw2src-13" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;fontSize=14;" parent="3nuBFxr9cyL0pnOWT2aG-1" vertex="1">
           <mxGeometry x="45" y="60" width="10" height="85" as="geometry" />
-        </mxCell>
-        <mxCell id="qP7RfjjSuJHUTKs1OxjB-11" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;fontSize=14;" parent="3nuBFxr9cyL0pnOWT2aG-1" vertex="1">
-          <mxGeometry x="45" y="609.5" width="10" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="qP7RfjjSuJHUTKs1OxjB-17" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;fontSize=14;" parent="3nuBFxr9cyL0pnOWT2aG-1" vertex="1">
-          <mxGeometry x="45" y="800" width="10" height="190" as="geometry" />
-        </mxCell>
-        <mxCell id="qP7RfjjSuJHUTKs1OxjB-28" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;fontSize=14;" parent="3nuBFxr9cyL0pnOWT2aG-1" vertex="1">
-          <mxGeometry x="45" y="1020" width="10" height="190" as="geometry" />
         </mxCell>
         <mxCell id="3nuBFxr9cyL0pnOWT2aG-5" value="DB &#xa;BCCS" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="340" y="80" width="100" height="1220" as="geometry" />
@@ -41,13 +32,13 @@
           <mxGeometry x="45" y="192.5" width="10" height="80" as="geometry" />
         </mxCell>
         <mxCell id="zwl1kb8XWR0ilbOw2src-9" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;fontSize=14;" parent="3nuBFxr9cyL0pnOWT2aG-5" vertex="1">
-          <mxGeometry x="45" y="325" width="10" height="80" as="geometry" />
+          <mxGeometry x="45" y="305" width="10" height="80" as="geometry" />
         </mxCell>
         <mxCell id="zwl1kb8XWR0ilbOw2src-14" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;fontSize=14;" parent="3nuBFxr9cyL0pnOWT2aG-5" vertex="1">
           <mxGeometry x="45" y="60" width="10" height="80" as="geometry" />
         </mxCell>
         <mxCell id="qP7RfjjSuJHUTKs1OxjB-9" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;fontSize=14;" parent="3nuBFxr9cyL0pnOWT2aG-5" vertex="1">
-          <mxGeometry x="45" y="609.5" width="10" height="80" as="geometry" />
+          <mxGeometry x="45" y="660" width="10" height="29.5" as="geometry" />
         </mxCell>
         <mxCell id="qP7RfjjSuJHUTKs1OxjB-18" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;fontSize=14;" parent="3nuBFxr9cyL0pnOWT2aG-5" vertex="1">
           <mxGeometry x="45" y="800" width="10" height="90" as="geometry" />
@@ -55,7 +46,7 @@
         <mxCell id="qP7RfjjSuJHUTKs1OxjB-24" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;fontSize=14;" parent="3nuBFxr9cyL0pnOWT2aG-5" vertex="1">
           <mxGeometry x="48" y="1020" width="10" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="3nuBFxr9cyL0pnOWT2aG-7" value="param value" style="verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;shadow=0;strokeWidth=1;fontSize=14;" parent="1" edge="1">
+        <mxCell id="3nuBFxr9cyL0pnOWT2aG-7" value="param value" style="verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;shadow=0;strokeWidth=1;fontSize=14;" parent="1" edge="1" target="3nuBFxr9cyL0pnOWT2aG-1">
           <mxGeometry x="-0.0056" relative="1" as="geometry">
             <mxPoint x="49.5" y="352.5" as="targetPoint" />
             <mxPoint x="389.5" y="352.5" as="sourcePoint" />
@@ -77,37 +68,37 @@
         <mxCell id="zwl1kb8XWR0ilbOw2src-2" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;fontSize=14;" parent="zwl1kb8XWR0ilbOw2src-1" vertex="1">
           <mxGeometry x="45" y="80" width="10" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="zwl1kb8XWR0ilbOw2src-6" value="&lt;div&gt;param&amp;nbsp;PARAM_CODE_FIX_BUG_OFFSET&amp;nbsp;&amp;nbsp;&lt;/div&gt;0&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; kết thúc tiến trình và ngủ sau đó quay lại start&lt;div style=&quot;font-size: 14px&quot;&gt;1&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; tiếp tục thực hiện tiến trình&lt;/div&gt;error&amp;nbsp; kết thúc tiến trình và ngủ sau đó quay lại start" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="zwl1kb8XWR0ilbOw2src-6" value="&lt;div&gt;param&amp;nbsp;PARAM_CODE_FIX_BUG_OFFSET&amp;nbsp;&amp;nbsp;&lt;/div&gt;- 0, null, empty, error&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; kết thúc tiến trình và ngủ sau đó quay lại start&lt;div style=&quot;font-size: 14px&quot;&gt;- 1&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; tiếp tục thực hiện tiến trình&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="400" y="287.5" width="330" height="62.5" as="geometry" />
         </mxCell>
-        <mxCell id="zwl1kb8XWR0ilbOw2src-8" value="Lấy whitelist SDT để test =&gt; getParam" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;exitX=0.47;exitY=0.312;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=14;" parent="1" target="zwl1kb8XWR0ilbOw2src-9" edge="1">
+        <mxCell id="zwl1kb8XWR0ilbOw2src-8" value="Lấy whitelist SDT để test =&gt; getParam" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;exitX=0.493;exitY=0.272;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=14;" parent="1" target="zwl1kb8XWR0ilbOw2src-9" edge="1">
           <mxGeometry x="-0.0476" relative="1" as="geometry">
-            <mxPoint x="47" y="407.1600000000001" as="sourcePoint" />
-            <mxPoint x="380" y="407" as="targetPoint" />
+            <mxPoint x="-60.69999999999982" y="386.8399999999999" as="sourcePoint" />
+            <mxPoint x="380" y="387" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zwl1kb8XWR0ilbOw2src-11" value="param PARAM_CODE_WHITE_LIST_FIX_BUG&lt;br style=&quot;font-size: 14px;&quot;&gt;0&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;kết thúc tiến trình và ngủ sau đó quay lại start&lt;br style=&quot;font-size: 14px;&quot;&gt;1&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;tiếp tục thực hiện tiến trình&lt;br style=&quot;font-size: 14px;&quot;&gt;error&amp;nbsp; &amp;nbsp; kết thúc tiến trình và ngủ sau đó quay lại start" style="text;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="400" y="400" width="330" height="85" as="geometry" />
+        <mxCell id="zwl1kb8XWR0ilbOw2src-11" value="param PARAM_CODE_WHITE_LIST_FIX_BUG&lt;br style=&quot;font-size: 14px&quot;&gt;- null, error&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;kết thúc tiến trình và ngủ sau đó =&amp;gt; start&lt;br style=&quot;font-size: 14px&quot;&gt;- empty&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Tiếp tục thực hiện&lt;br&gt;- 1&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Có giá trị trong whilelist =&amp;gt; tiếp tục thực hiện tiến trình =&amp;gt; Kiêm tra thông tin các sdt trong file excel." style="text;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="400" y="380" width="510" height="85" as="geometry" />
         </mxCell>
-        <mxCell id="zwl1kb8XWR0ilbOw2src-12" value="param value" style="verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;shadow=0;strokeWidth=1;entryX=0.52;entryY=0.429;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=14;" parent="1" edge="1">
+        <mxCell id="zwl1kb8XWR0ilbOw2src-12" value="param value" style="verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;shadow=0;strokeWidth=1;fontSize=14;" parent="1" edge="1">
           <mxGeometry x="0.1773" y="-20" relative="1" as="geometry">
-            <mxPoint x="52" y="486.72" as="targetPoint" />
-            <mxPoint x="390" y="485" as="sourcePoint" />
+            <mxPoint x="-60.55263157894706" y="465" as="targetPoint" />
+            <mxPoint x="390" y="465" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="260.5" y="485" />
+              <mxPoint x="260.5" y="465" />
             </Array>
             <mxPoint x="20" y="16" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zwl1kb8XWR0ilbOw2src-17" value="CheckconnectToDb" style="verticalAlign=bottom;endArrow=block;entryX=0.5;entryY=0;shadow=0;strokeWidth=1;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=14;" parent="1" target="zwl1kb8XWR0ilbOw2src-14" edge="1">
+        <mxCell id="zwl1kb8XWR0ilbOw2src-17" value="CheckconnectToDb" style="verticalAlign=bottom;endArrow=block;entryX=0.5;entryY=0;shadow=0;strokeWidth=1;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=14;" parent="1" target="zwl1kb8XWR0ilbOw2src-14" edge="1" source="3nuBFxr9cyL0pnOWT2aG-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="50" y="140" as="sourcePoint" />
             <mxPoint x="380" y="140" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zwl1kb8XWR0ilbOw2src-18" value="result " style="verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;shadow=0;strokeWidth=1;fontSize=14;" parent="1" edge="1">
+        <mxCell id="zwl1kb8XWR0ilbOw2src-18" value="result " style="verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;shadow=0;strokeWidth=1;fontSize=14;" parent="1" edge="1" target="3nuBFxr9cyL0pnOWT2aG-1">
           <mxGeometry x="0.0588" relative="1" as="geometry">
             <mxPoint x="50" y="220" as="targetPoint" />
             <mxPoint x="390" y="220" as="sourcePoint" />
@@ -119,12 +110,12 @@
           <mxGeometry x="400" y="150" width="280" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zwl1kb8XWR0ilbOw2src-21" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="735" y="520" width="10" height="80" as="geometry" />
+          <mxGeometry x="735" y="485" width="10" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="qP7RfjjSuJHUTKs1OxjB-2" value="" style="endArrow=classic;html=1;fontSize=14;" parent="1" edge="1">
+        <mxCell id="qP7RfjjSuJHUTKs1OxjB-2" value="" style="endArrow=classic;html=1;fontSize=14;exitX=0.483;exitY=0.338;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1" source="3nuBFxr9cyL0pnOWT2aG-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="45" y="520" as="sourcePoint" />
-            <mxPoint x="734.5" y="520" as="targetPoint" />
+            <mxPoint x="-60.55263157894706" y="485" as="sourcePoint" />
+            <mxPoint x="734.5" y="485" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="qP7RfjjSuJHUTKs1OxjB-3" value="đọc dữ liệu từ fiile excel&amp;nbsp;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fontSize=14;" parent="qP7RfjjSuJHUTKs1OxjB-2" connectable="0" vertex="1">
@@ -132,21 +123,23 @@
         </mxCell>
         <mxCell id="qP7RfjjSuJHUTKs1OxjB-5" value="dữ liệu request_ca, request_change_sub_ca, cấp CTS trên MSSP&lt;br style=&quot;font-size: 14px;&quot;&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.1;entryY=0.975;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=14;" parent="1" source="zwl1kb8XWR0ilbOw2src-21" target="3nuBFxr9cyL0pnOWT2aG-4" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="420" y="610" as="sourcePoint" />
-            <mxPoint x="340" y="610" as="targetPoint" />
+            <mxPoint x="420" y="575" as="sourcePoint" />
+            <mxPoint x="340" y="575" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qP7RfjjSuJHUTKs1OxjB-6" value="" style="endArrow=classic;html=1;fontSize=14;" parent="1" edge="1">
+        <mxCell id="qP7RfjjSuJHUTKs1OxjB-6" value="" style="endArrow=classic;html=1;fontSize=14;" parent="1" edge="1" source="cTrpMsffe2Rf8CX8WzKy-10">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="55.5" y="689.5" as="sourcePoint" />
-            <mxPoint x="390" y="689.5" as="targetPoint" />
+            <mxPoint x="55.5" y="730" as="sourcePoint" />
+            <mxPoint x="390" y="730" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="qP7RfjjSuJHUTKs1OxjB-7" value="kiểm tra trạng thái thuê bao" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fontSize=14;" parent="qP7RfjjSuJHUTKs1OxjB-6" connectable="0" vertex="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint y="-20" as="offset" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="qP7RfjjSuJHUTKs1OxjB-8" value="status sub_ca" style="verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;shadow=0;strokeWidth=1;fontSize=14;" parent="1" edge="1">
+        <mxCell id="qP7RfjjSuJHUTKs1OxjB-8" value="status sub_ca" style="verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;shadow=0;strokeWidth=1;fontSize=14;entryX=0.483;entryY=0.568;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1" target="cTrpMsffe2Rf8CX8WzKy-4">
           <mxGeometry x="0.1773" y="-20" relative="1" as="geometry">
             <mxPoint x="52" y="769.5" as="targetPoint" />
             <mxPoint x="388" y="769.5" as="sourcePoint" />
@@ -156,48 +149,52 @@
         </mxCell>
         <mxCell id="qP7RfjjSuJHUTKs1OxjB-12" value="" style="endArrow=classic;html=1;fontSize=14;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="50" y="620" as="sourcePoint" />
-            <mxPoint x="54.5" y="670" as="targetPoint" />
+            <mxPoint x="-60" y="640" as="sourcePoint" />
+            <mxPoint x="-60" y="674" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="115" y="620" />
-              <mxPoint x="115" y="670" />
+              <mxPoint x="0.20000000000000284" y="640" />
+              <mxPoint x="0.20000000000000284" y="674" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="qP7RfjjSuJHUTKs1OxjB-13" value="đẩy các bản ghi vào tiến trình con&lt;br style=&quot;font-size: 14px;&quot;&gt;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fontSize=14;" parent="qP7RfjjSuJHUTKs1OxjB-12" connectable="0" vertex="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="qP7RfjjSuJHUTKs1OxjB-13" value="Tạo các tiến trình con (6 tiến trình)&lt;br&gt;đẩy các bản ghi trong ds cần xử lý vào tiến trình con&lt;br&gt;Định kỳ phân phối bản ghi cho các tiến trình con" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=middle;fontSize=14;" parent="qP7RfjjSuJHUTKs1OxjB-12" connectable="0" vertex="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="99.80000000000001" y="-6.64" as="offset" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="qP7RfjjSuJHUTKs1OxjB-14" value="tiến trình con start " style="verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;shadow=0;strokeWidth=1;fontSize=14;" parent="1" edge="1">
-          <mxGeometry x="-0.0476" relative="1" as="geometry">
-            <mxPoint x="-60" y="689.5" as="sourcePoint" />
-            <mxPoint as="offset" />
-            <mxPoint x="45" y="689.5" as="targetPoint" />
+        <mxCell id="qP7RfjjSuJHUTKs1OxjB-14" value=" start tiến trình con" style="verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;shadow=0;strokeWidth=1;fontSize=14;" parent="1" edge="1" target="cTrpMsffe2Rf8CX8WzKy-4">
+          <mxGeometry x="0.0036" relative="1" as="geometry">
+            <mxPoint x="-60" y="720" as="sourcePoint" />
+            <mxPoint x="-1" as="offset" />
+            <mxPoint x="45" y="720" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="qP7RfjjSuJHUTKs1OxjB-15" value="" style="endArrow=classic;html=1;fontSize=14;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="55" y="790" as="sourcePoint" />
-            <mxPoint x="51" y="860" as="targetPoint" />
+            <mxPoint x="84" y="790" as="sourcePoint" />
+            <mxPoint x="80" y="860" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="120" y="790" />
-              <mxPoint x="120" y="860" />
-              <mxPoint x="90" y="860" />
+              <mxPoint x="149" y="790" />
+              <mxPoint x="149" y="860" />
+              <mxPoint x="119" y="860" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="qP7RfjjSuJHUTKs1OxjB-16" value="nếu thuê bao đang hoạt động tiếp tục thực hiện tiến trình&lt;br style=&quot;font-size: 14px;&quot;&gt;nếu thuê bao đã gia hạn và trạng thái trên file excel chưa thu hồi: kết thúc tiến trình&lt;br style=&quot;font-size: 14px;&quot;&gt;nếu thuê bao đã gia hạn và trạng thái trên file excel đã thu hồi: tiếp&amp;nbsp;tục tiến trình" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fontSize=14;" parent="qP7RfjjSuJHUTKs1OxjB-15" connectable="0" vertex="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="qP7RfjjSuJHUTKs1OxjB-16" value="- Nếu thuê bao cũ (tương ứng CTS cũ) đang hoạt động tiếp tục thực hiện tiến trình =&amp;gt; 1&lt;br style=&quot;font-size: 14px&quot;&gt;- Nếu thuê bao cũ đã gia hạn và trạng thái trên file excel chưa thu hồi: kết thúc tiến trình =&amp;gt; cập nhật trạng thái excel&lt;br style=&quot;font-size: 14px&quot;&gt;- Nếu thuê bao cũ đã gia hạn và trạng thái trên file excel đã thu hồi: tiếp&amp;nbsp;tục tiến trình =&amp;gt; 2&lt;br&gt;- Nếu thuê bao cũ đã thu hồi và trạng thái trên file excel đã thu hồi: tiếp&amp;nbsp;tục tiến trình =&amp;gt; 3" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=middle;fontSize=14;" parent="qP7RfjjSuJHUTKs1OxjB-15" connectable="0" vertex="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="21" as="offset" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="qP7RfjjSuJHUTKs1OxjB-19" value="" style="endArrow=classic;html=1;fontSize=14;" parent="1" edge="1">
+        <mxCell id="qP7RfjjSuJHUTKs1OxjB-19" value="" style="endArrow=classic;html=1;fontSize=14;" parent="1" edge="1" source="cTrpMsffe2Rf8CX8WzKy-11">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="50.5" y="890" as="sourcePoint" />
             <mxPoint x="385" y="890" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qP7RfjjSuJHUTKs1OxjB-20" value="cập nhật dữ liệu" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fontSize=14;" parent="qP7RfjjSuJHUTKs1OxjB-19" connectable="0" vertex="1">
+        <mxCell id="qP7RfjjSuJHUTKs1OxjB-20" value="cập nhật dữ liệu 1" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fontSize=14;" parent="qP7RfjjSuJHUTKs1OxjB-19" connectable="0" vertex="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qP7RfjjSuJHUTKs1OxjB-21" value="reponse" style="verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;shadow=0;strokeWidth=1;fontSize=14;" parent="1" edge="1">
+        <mxCell id="qP7RfjjSuJHUTKs1OxjB-21" value="reponse" style="verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;shadow=0;strokeWidth=1;fontSize=14;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1" target="cTrpMsffe2Rf8CX8WzKy-11">
           <mxGeometry x="0.1773" y="-20" relative="1" as="geometry">
             <mxPoint x="47" y="970" as="targetPoint" />
             <mxPoint x="383" y="970" as="sourcePoint" />
@@ -205,7 +202,7 @@
             <mxPoint x="20" y="16" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qP7RfjjSuJHUTKs1OxjB-22" value="" style="endArrow=classic;html=1;fontSize=14;" parent="1" edge="1">
+        <mxCell id="qP7RfjjSuJHUTKs1OxjB-22" value="" style="endArrow=classic;html=1;fontSize=14;exitX=0.472;exitY=0.816;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1" source="cTrpMsffe2Rf8CX8WzKy-4">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="55" y="1070" as="sourcePoint" />
             <mxPoint x="744.5" y="1070" as="targetPoint" />
@@ -217,7 +214,7 @@
         <mxCell id="qP7RfjjSuJHUTKs1OxjB-23" value="cập nhật trạng thái lên file excel" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fontSize=14;" parent="qP7RfjjSuJHUTKs1OxjB-22" connectable="0" vertex="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qP7RfjjSuJHUTKs1OxjB-25" value="" style="endArrow=classic;html=1;fontSize=14;" parent="1" edge="1">
+        <mxCell id="qP7RfjjSuJHUTKs1OxjB-25" value="" style="endArrow=classic;html=1;fontSize=14;" parent="1" edge="1" source="cTrpMsffe2Rf8CX8WzKy-12">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="53.5" y="1100" as="sourcePoint" />
             <mxPoint x="388" y="1100" as="targetPoint" />
@@ -226,7 +223,7 @@
         <mxCell id="qP7RfjjSuJHUTKs1OxjB-26" value="insert tin nhắn thông báo" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fontSize=14;" parent="qP7RfjjSuJHUTKs1OxjB-25" connectable="0" vertex="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qP7RfjjSuJHUTKs1OxjB-27" value="reponse" style="verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;shadow=0;strokeWidth=1;fontSize=14;" parent="1" edge="1">
+        <mxCell id="qP7RfjjSuJHUTKs1OxjB-27" value="reponse" style="verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;shadow=0;strokeWidth=1;fontSize=14;" parent="1" edge="1" target="cTrpMsffe2Rf8CX8WzKy-12">
           <mxGeometry x="0.1773" y="-20" relative="1" as="geometry">
             <mxPoint x="50" y="1180" as="targetPoint" />
             <mxPoint x="386" y="1180" as="sourcePoint" />
@@ -234,7 +231,7 @@
             <mxPoint x="20" y="16" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qP7RfjjSuJHUTKs1OxjB-29" value="" style="endArrow=classic;html=1;fontSize=14;" parent="1" edge="1">
+        <mxCell id="qP7RfjjSuJHUTKs1OxjB-29" value="" style="endArrow=classic;html=1;fontSize=14;exitX=0.5;exitY=0.968;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1" source="cTrpMsffe2Rf8CX8WzKy-12">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="55.5" y="1279" as="sourcePoint" />
             <mxPoint x="745" y="1279" as="targetPoint" />
@@ -248,28 +245,28 @@
         </mxCell>
         <mxCell id="qP7RfjjSuJHUTKs1OxjB-32" value="" style="endArrow=classic;html=1;fontSize=14;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="54" y="990" as="sourcePoint" />
-            <mxPoint x="50" y="1060" as="targetPoint" />
+            <mxPoint x="84" y="990" as="sourcePoint" />
+            <mxPoint x="80" y="1060" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="119" y="990" />
+              <mxPoint x="149" y="990" />
+              <mxPoint x="149" y="1060" />
               <mxPoint x="119" y="1060" />
-              <mxPoint x="89" y="1060" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="qP7RfjjSuJHUTKs1OxjB-33" value="lỗi : rollback dữ liệu, kết thúc tiến trình&lt;br style=&quot;font-size: 14px;&quot;&gt;thành công: tiếp tục tiến trình" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fontSize=14;" parent="qP7RfjjSuJHUTKs1OxjB-32" connectable="0" vertex="1">
+        <mxCell id="qP7RfjjSuJHUTKs1OxjB-33" value="lỗi : rollback dữ liệu, cập nhật kết quả exel -&amp;gt; chuyển sang bản ghi khác&lt;br style=&quot;font-size: 14px&quot;&gt;thành công: tiếp tục" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fontSize=14;" parent="qP7RfjjSuJHUTKs1OxjB-32" connectable="0" vertex="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="61" y="-7" as="offset" />
+            <mxPoint x="239" y="-7" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="qP7RfjjSuJHUTKs1OxjB-34" value="" style="endArrow=classic;html=1;fontSize=14;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="54" y="1200" as="sourcePoint" />
-            <mxPoint x="50" y="1270" as="targetPoint" />
+            <mxPoint x="84" y="1200" as="sourcePoint" />
+            <mxPoint x="80" y="1270" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="119" y="1200" />
+              <mxPoint x="149" y="1200" />
+              <mxPoint x="149" y="1270" />
               <mxPoint x="119" y="1270" />
-              <mxPoint x="89" y="1270" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -327,6 +324,33 @@
         </mxCell>
         <mxCell id="qP7RfjjSuJHUTKs1OxjB-53" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;-&amp;nbsp;insert bản ghi cho thuê bao mới:&lt;/span&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/span&gt;&lt;ul style=&quot;font-size: 14px;&quot;&gt;&lt;li style=&quot;font-size: 14px;&quot;&gt;SerialUsb: null&lt;/li&gt;&lt;li style=&quot;font-size: 14px;&quot;&gt;Serial_cts: giá trị trên file excel&lt;/li&gt;&lt;li style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;StaDatetime:&amp;nbsp;&lt;/span&gt;giá trị trên file excel&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br style=&quot;padding: 0px; margin: 0px; font-size: 14px;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp;- update cho thuê bao cũ:&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/span&gt;&lt;ul style=&quot;font-size: 14px;&quot;&gt;&lt;li style=&quot;font-size: 14px;&quot;&gt;End_datetime= giá trị trên file excel&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Helvetica;fontSize=14;" parent="qP7RfjjSuJHUTKs1OxjB-51" vertex="1">
           <mxGeometry y="30" width="330" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="cTrpMsffe2Rf8CX8WzKy-2" value="" style="endArrow=classic;html=1;fontSize=14;entryX=0.472;entryY=0.45;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.493;exitY=0.421;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-62.89999999999982" y="559.9999999999999" as="sourcePoint" />
+            <mxPoint x="-64.99999999999973" y="595.38" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="3.0000000000000027" y="561.38" />
+              <mxPoint x="3.0000000000000027" y="595.38" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cTrpMsffe2Rf8CX8WzKy-3" value="Trường hợp whilelist != null =&amp;gt; Kiểm tra SDT có trong Excel??&lt;br&gt;- Có =&amp;gt; Fill ds bản ghi xử lý&lt;br&gt;- Không =&amp;gt; dừng, sleep, start&lt;br&gt;&lt;div&gt;Thật: Validate ds từ excel =&amp;gt; fill ds bản ghi xử lý&lt;/div&gt;" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=middle;fontSize=14;" connectable="0" vertex="1" parent="cTrpMsffe2Rf8CX8WzKy-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="97" y="-9.68" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cTrpMsffe2Rf8CX8WzKy-4" value="Tiến trình Con" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="30" y="75" width="100" height="1220" as="geometry" />
+        </mxCell>
+        <mxCell id="cTrpMsffe2Rf8CX8WzKy-10" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;fontSize=14;" vertex="1" parent="cTrpMsffe2Rf8CX8WzKy-4">
+          <mxGeometry x="45" y="650" width="10" height="39.5" as="geometry" />
+        </mxCell>
+        <mxCell id="cTrpMsffe2Rf8CX8WzKy-11" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;fontSize=14;" vertex="1" parent="cTrpMsffe2Rf8CX8WzKy-4">
+          <mxGeometry x="45" y="800" width="10" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="cTrpMsffe2Rf8CX8WzKy-12" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;fontSize=14;" vertex="1" parent="cTrpMsffe2Rf8CX8WzKy-4">
+          <mxGeometry x="45" y="1020" width="10" height="190" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
