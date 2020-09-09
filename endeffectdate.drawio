@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-09T06:30:10.993Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="G86PSzQava533SOXlRdl" version="13.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-09T06:30:29.611Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="ymvJ_KhdHYGkh1LY9QjO" version="13.6.9" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -216,8 +216,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="1vematbYPJLGRJVCrZ_m-54" value="ngủ 15s sau đó tiếp tục quay lại start" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="930" width="210" height="20" as="geometry" />
+        <mxCell id="1vematbYPJLGRJVCrZ_m-54" value="&lt;font style=&quot;font-size: 14px&quot;&gt;ngủ 15s sau đó tiếp tục quay lại start&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="85" y="930" width="240" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
