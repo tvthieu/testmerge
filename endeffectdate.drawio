@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-09T06:35:05.279Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="f43xDakWhSIcXS3rv2DW" version="13.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-09T06:35:46.724Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="Ba6GIWwcfb2_oEW4Q-SD" version="13.6.9" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -32,7 +32,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="1vematbYPJLGRJVCrZ_m-10" value="&lt;div&gt;param&amp;nbsp;PARAM_CODE_UPDATE_EE_DATE&amp;nbsp;&lt;/div&gt;- 0, null, empty, error&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; kết thúc tiến trình và ngủ sau đó quay lại start&lt;div style=&quot;font-size: 14px&quot;&gt;- 1&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; tiếp tục thực hiện tiến trình&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="690" y="281.25" width="330" height="62.5" as="geometry" />
+          <mxGeometry x="620" y="290" width="330" height="62.5" as="geometry" />
         </mxCell>
         <mxCell id="1vematbYPJLGRJVCrZ_m-11" value="Lấy whitelist để test =&gt; getParam" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;fontSize=14;exitX=0.48;exitY=0.34;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="1vematbYPJLGRJVCrZ_m-6" source="1vematbYPJLGRJVCrZ_m-16">
           <mxGeometry x="0.0598" relative="1" as="geometry">
@@ -65,7 +65,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="1vematbYPJLGRJVCrZ_m-15" value="câu lệnh sql &quot;select 1 from dual&quot;&lt;br style=&quot;font-size: 14px;&quot;&gt;result != null&amp;nbsp; &amp;nbsp;tiếp tục thực hiện tiến trình&lt;br style=&quot;font-size: 14px;&quot;&gt;error&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;kết thúc tiến trình và ngủ sau&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;đó quay lại start" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="680" y="152.5" width="280" height="60" as="geometry" />
+          <mxGeometry x="620" y="165" width="280" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1vematbYPJLGRJVCrZ_m-16" value="Tiến trình" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="30" y="90" width="100" height="910" as="geometry" />
@@ -107,7 +107,7 @@
           <mxGeometry x="45" y="192.5" width="10" height="80" as="geometry" />
         </mxCell>
         <mxCell id="1vematbYPJLGRJVCrZ_m-30" value="param PARAM_CODE_WHITE_LIST_ERR_DATE&lt;br style=&quot;font-size: 14px&quot;&gt;- null, error&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;kết thúc tiến trình và ngủ sau đó =&amp;gt; start&lt;br style=&quot;font-size: 14px&quot;&gt;- empty&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Tiếp tục thực hiện&lt;br&gt;- &amp;lt;list CTS&amp;gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Có giá trị trong whilelist =&amp;gt; tiếp tục thực hiện tiến trình" style="text;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="680" y="380" width="440" height="85" as="geometry" />
+          <mxGeometry x="620" y="395" width="440" height="85" as="geometry" />
         </mxCell>
         <mxCell id="1vematbYPJLGRJVCrZ_m-32" value="" style="endArrow=classic;html=1;fontSize=14;exitX=0.2;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="1vematbYPJLGRJVCrZ_m-19" target="1vematbYPJLGRJVCrZ_m-22">
           <mxGeometry relative="1" as="geometry">
